@@ -1,2 +1,3 @@
 heyy!
 Ligne modifiée par A.
+Ligne modifiée par B.
