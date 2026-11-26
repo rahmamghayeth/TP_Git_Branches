@@ -1,3 +1,10 @@
+update_A
 heyy!
 Ligne modifiée par A.
+update_B
 Ligne modifiée par B.
+
+
+Ajout de la fonctionnalité 1!!
+main
+main
